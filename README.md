@@ -1,4 +1,5 @@
-# smartstudyplanner
+SMART STUDY PLANNER
+-----------------------------------------------------------------------------------------------------------------
 A simple but smart study planner that helps you decide what to study and when, based on deadlines and difficulty. This project combines Python for scheduling and Prolog for logical reasoning
 
 -----------------------------------------------------------------------------------------------------------------
@@ -32,7 +33,7 @@ A clean time-based schedule starting from 4:00 PM
 
 
 -----------------------------------------------------------------------------------------------------------------
- TechNOLOGY Used:
+ Technology Used:
  -----------------------------------------------------------------------------------------------------------------
 Python
 Prolog
